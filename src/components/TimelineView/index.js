@@ -10,7 +10,7 @@ import {
   Heading,
   CCBPHeading,
 } from './styledComponents'
-
+/* */
 const TimelineView = props => {
   const {timelineItemsList} = props
 
